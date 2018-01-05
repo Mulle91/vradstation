@@ -2,7 +2,7 @@
 include "header.php";
 ?>
 
-
+<h1>hej</h1>
 
 <?php
 include "footer.php";
