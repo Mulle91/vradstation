@@ -1,6 +1,9 @@
 div.topnav {
 	text-align: right;
 	min-width: 150px;
+	position: fixed;
+	margin: auto;
+	left: 1050px;
 }
 
 li a {
