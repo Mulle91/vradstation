@@ -1,0 +1,22 @@
+div.topnav {
+	text-align: right;
+	min-width: 150px;
+}
+
+.logo {
+	float: left;
+}
+
+li a {
+	text-decoration: none;
+	color: black;
+	border: 2px solid green;
+}
+li a:hover {
+	color: blue;
+}
+
+div.topnav li {
+	list-style: none;
+	display: inline-block;
+}
