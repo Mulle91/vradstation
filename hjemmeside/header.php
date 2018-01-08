@@ -7,9 +7,8 @@
 </head>
 
 <body>
-
+<img class="logo" src="css/logo.png">
 <div class="topnav">
-	<img class="logo" src="test.png">
 	<ul>
 		<li class="konceptet"><a href=""> Konceptet </a></li>
 		<li class="mad"><a href=""> Mad & drikke </a></li>
