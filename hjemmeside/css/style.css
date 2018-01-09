@@ -1,18 +1,10 @@
 @import url("topnav.css");
 
-.head {
-	float: left;
-	position: absolute;
-	left: 35%;
-	top: 5%;
-}
-
 .topbilled img {
 	height: 800px;
-	width: 900px;
+	width: 600px;
 	border-top: 130px solid;
 	border-color: rgba(177,180,174,0.3);
 }
-#v{
-	padding-left: 25px;
-}
+#v {
+	padding-left: 350px;}

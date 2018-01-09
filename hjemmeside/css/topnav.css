@@ -1,11 +1,10 @@
 body {
-	width: 97%;
+	width: 100%;
 	background-color: #b1b4ae;
-	min-width: 150px;
 }
 
 div.topnav {
-	min-width: 200px;
+	min-width: 500px;
 	position: fixed;
 	float: right;
 	margin: auto;
@@ -19,6 +18,7 @@ li a {
 	border: 2px;
 	padding: 20px;
 	float: left;
+	color: #ffffff
 }
 li a:hover {
 	color: #0000ff;
