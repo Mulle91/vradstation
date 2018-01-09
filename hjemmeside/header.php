@@ -3,12 +3,12 @@
 <head>
 
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<title>hej</title>
+	<title>Vradsstation.dk</title>
 </head>
 
 <body>
 
-<img class="logo" src="css/logo.png" style="width: 80px; float: left; position: fixed; left: 200px;">
+<img class="logo" src="css/logo.png" style="width: 80px; float: left; position: fixed; left: 10%;">
 
 <div class="topnav">
 	<ul>
