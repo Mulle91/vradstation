@@ -1,5 +1,16 @@
 @import url("topnav.css");
 
 .head {
-	
+	float: left;
+	position: absolute;
+	left: 35%;
+	top: 10%;
+}
+
+.topbilled img {
+	position: absolute;
+	height: 800px;
+	width: 900px;
+	top: 20%;
+	float: left;
 }
