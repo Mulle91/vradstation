@@ -2,6 +2,7 @@ body {
 	width: 100%;
 	height: 100%;
 	background-color: #b1b4ae;
+	min-width: 150px;
 }
 
 div.topnav {
@@ -18,6 +19,7 @@ li a {
 	color: #000000;
 	border: 2px;
 	padding: 20px;
+	float: left;
 }
 li a:hover {
 	color: #0000ff;

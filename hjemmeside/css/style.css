@@ -4,13 +4,13 @@
 	float: left;
 	position: absolute;
 	left: 35%;
-	top: 10%;
+	top: 5%;
 }
 
 .topbilled img {
-	position: absolute;
+	padding-left: 25px;
 	height: 800px;
 	width: 900px;
-	top: 20%;
-	float: left;
+	border-top: 130px solid;
+	border-color: rgba(177,180,174,0.3);
 }
