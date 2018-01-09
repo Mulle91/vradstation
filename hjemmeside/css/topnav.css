@@ -1,12 +1,11 @@
 body {
-	width: 100%;
-	height: 100%;
+	width: 97%;
 	background-color: #b1b4ae;
 	min-width: 150px;
 }
 
 div.topnav {
-	min-width: 175px;
+	min-width: 200px;
 	position: fixed;
 	float: right;
 	margin: auto;
