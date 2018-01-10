@@ -8,6 +8,8 @@ include "header.php";
 <img id="r" src="css/rbilled.jpg">
 </div>
 
+<h1>Konceptet</h1>
+
 <?php
 include "footer.php";
 ?>

@@ -4,7 +4,7 @@ body {
 }
 
 div.topnav {
-	min-width: 500px;
+	min-width: 200px;
 	position: fixed;
 	float: right;
 	margin: auto;
@@ -14,7 +14,6 @@ div.topnav {
 
 li a {
 	text-decoration: none;
-	color: #000000;
 	border: 2px;
 	padding: 20px;
 	float: left;

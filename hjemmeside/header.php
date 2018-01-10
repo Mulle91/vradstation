@@ -12,7 +12,7 @@
 
 <div class="topnav">
 	<ul>
-		<li class="konceptet"><a href=""> Konceptet </a></li>
+		<li class="konceptet"><a href="#Konceptet"> Konceptet </a></li>
 		<li class="mad"><a href=""> Mad & drikke </a></li>
 		<li class="book"><a href=""> Book et bord </a></li>
 		<li class="gave"><a href=""> Gavekort </a></li>
