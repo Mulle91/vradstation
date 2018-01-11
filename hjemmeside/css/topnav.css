@@ -1,6 +1,5 @@
 body {
-	width: 100%;
-	background-color: #b1b4ae;
+	width: 99.5%;
 }
 
 div.topnav {
@@ -13,6 +12,7 @@ div.topnav {
 }
 
 li a {
+	background-color: #b1b4ae;
 	text-decoration: none;
 	border: 2px;
 	padding: 20px;
