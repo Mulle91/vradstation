@@ -9,9 +9,16 @@ include "header.php";
 </div>
 
 <div id="Menu">
-<h1>Menu</h1>
-<h4>Hvilke retter</h4>
-<a href="#Se indhold">Se indhold i retterne</a>
+	<h1>Menu</h1>
+	<h4>Hvilke retter</h4>
+	<ul>
+		<li>q</li>
+		<li>w</li>
+		<li>a</li>
+		<li>s</li>
+		<li>d</li>
+		<li>e</li>
+	</ul>
 </div>
 
 <div id="Vin">
