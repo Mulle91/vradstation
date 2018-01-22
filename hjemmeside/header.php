@@ -8,7 +8,7 @@
 
 <body>
 
-<a href="http:\\192.168.114.48"><img class="logo" src="css/logo.png" style="width: 80px; float: left; position: fixed; left: 10%;"></a>
+<a href="http:\\192.168.114.48"><img class="logo" src="css/logo.png" style="width: 300px; float: left; position: fixed; left: 2%;"></a>
 
 <div class="topnav">
 	<ul>
