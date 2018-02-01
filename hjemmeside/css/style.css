@@ -10,3 +10,8 @@
 .brødtekst {
 	font-family: cursive, sans-serif;
 }
+
+#Menu, #Vin, #Selskab, #Arrangementer, #Restauranten, #Kontakt {
+	padding: 150px 0;
+    overflow: hidden;
+}

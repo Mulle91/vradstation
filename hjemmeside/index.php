@@ -26,10 +26,6 @@ include "header.php";
 	<div id="Restauranten">
 		<h1>Restauranten</h1>
 	</div>
-
-	<div id="Kontakt">
-		<h1>Kontakt os</h1>
-	</div>
 </div>
 
 <?php
