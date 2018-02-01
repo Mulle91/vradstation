@@ -12,6 +12,6 @@
 }
 
 #Menu, #Vin, #Selskab, #Arrangementer, #Restauranten, #Kontakt {
-	padding: 150px 0;
+	padding-top: 200px;
     overflow: hidden;
 }
