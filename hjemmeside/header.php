@@ -8,15 +8,49 @@
 
 <body>
 
-<a href="http:\\192.168.114.48"><img class="logo" src="css/logo.png" style="width: 300px; float: left; position: fixed; left: 2%;"></a>
+<div class="topback">
+	<a href="http:\\192.168.114.48"><img class="logo" src="css/logo.png" style="width: 300px; float: left;"></a>
+	
+	<div class="topnav">
 
-<div class="topnav">
-	<ul>
-		<li class="menu"><a href="http:\\192.168.114.48/#Menu"> Menu </a></li>
-		<li class="vin"><a href="http:\\192.168.114.48/#Vin"> Vin </a></li>
-		<li class="selskab"><a href="http:\\192.168.114.48/#Selskab"> Selskab </a></li>
-		<li class="arrangementer"><a href="http:\\192.168.114.48/#Arrangementer"> Arrangementer </a></li>
-		<li class="restauranten"><a href="http:\\192.168.114.48/#Restauranten"> Restauranten </a></li>
-		<li class="kontakt"><a href="http:\\192.168.114.48/#Kontakt"> Kontakt os </a></li>
-	</ul>
+		<nav>
+			<ul>
+				<li>
+					<a href="http:\\192.168.114.48\#Menu"> Menu </a>
+				</li>
+
+				<li>
+					<a href="http:\\192.168.114.48\#Vin"> Vin </a>
+				</li>
+
+				<li>
+					<a href="http:\\192.168.114.48\#Selskab"> Selskab </a>
+				</li>
+
+				<li>
+					<a href="http:\\192.168.114.48\#Arrangementer"> Arrangementer </a>
+				</li>
+
+				<li>
+					<a href="http:\\192.168.114.48\#Restauranten"> Restauranten </a>
+				</li>
+				
+				<li>
+					<a href="http:\\192.168.114.48\#Kontakt"> Kontakt os </a>
+				</li>
+			</ul>
+
+			<select>
+				<option selected="selected" value>gå til</option>
+
+
+				<option value=" " href="http:\\192.168.114.48\#Menu">Menu</option>
+				<option value="#Vin">Vin</option>
+				<option value="#Selskab">Selskab</option>
+				<option value="#Arrangementer">Arrangementer</option>
+				<option value="#Restauranten">Restauranten</option>
+				<option value="#Kontakt">Kontakt os</option>
+			</select>
+		</nav>
+	</div>
 </div>

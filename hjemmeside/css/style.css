@@ -2,7 +2,11 @@
 
 .topbilled img {
 	height: 80vh;
-	width: 98.5vh;
+	width: 110.3%;
 	border-top: 130px solid;
 	border-color: rgba(255,255,255,0.3);
+}
+
+.brødtekst {
+	font-family: cursive, sans-serif;
 }
