@@ -32,7 +32,7 @@ include "header.php";
 					<p>Klik på billedet for at se mere om restauranten ----></p>
 				</td>
 				<td>
-					<a href="#"><img src="css/restaurantImg.jpg"></a>
+					<a href="restaurante.php"><img src="css/restaurantImg.jpg"></a>
 				</td>
 			</tr>
 		</table>

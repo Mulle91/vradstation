@@ -1,5 +1,3 @@
-
-
 div.topnav {
 	min-width: 100%;
 	position: fixed;
@@ -9,7 +7,7 @@ div.topnav {
 	font-family: cursive, sans-serif;
 }
 
-li a {
+.topnav li a {
 	margin: 10px;
 	text-decoration: none;
 	padding: 20px;
@@ -18,7 +16,7 @@ li a {
 	text-align: center;
 }
 
-li a:hover {
+.topnav li a:hover {
 	color: #0000ff;
 }
 
