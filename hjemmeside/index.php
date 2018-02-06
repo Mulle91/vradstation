@@ -3,7 +3,7 @@ include "header.php";
 ?>
 
 	<div class="topbilled">
-		<img src="css/rbilled.jpg">
+		<img src="css/Topbilled.png">
 	</div>
 
 <div class="brødtekst">
@@ -24,7 +24,19 @@ include "header.php";
 	</div>
 
 	<div id="Restauranten">
-		<h1>Restauranten</h1>
+		<table>
+			<tr>
+				<td class="restaurantentekst">
+					<h1>Restauranten</h1>
+					<p>hej med dig min ven</p>
+					<p>Klik på billedet for at se mere om restauranten ----></p>
+				</td>
+				<td>
+					<a href="#"><img src="css/restaurantImg.jpg"></a>
+				</td>
+			</tr>
+		</table>
+		
 	</div>
 </div>
 

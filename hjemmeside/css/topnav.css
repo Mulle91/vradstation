@@ -1,9 +1,7 @@
-body {
-	width: 90%;
-}
+
 
 div.topnav {
-	min-width: 200px;
+	min-width: 100%;
 	position: fixed;
 	float: right;
 	margin: auto;
@@ -45,6 +43,7 @@ div.topback img {
 }
 
 .topback {
+	z-index: 1;
 	top: 0%;
 	position: fixed;
 	padding: 2px;

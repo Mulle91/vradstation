@@ -77,11 +77,11 @@
 
 
 				<option value="http:\\192.168.114.48\#Menu">Menu</option>
-				<option value="#Vin">Vin</option>
-				<option value="#Selskab">Selskab</option>
-				<option value="#Arrangementer">Arrangementer</option>
-				<option value="#Restauranten">Restauranten</option>
-				<option value="#Kontakt">Kontakt os</option>
+				<option value="http:\\192.168.114.48\#Vin">Vin</option>
+				<option value="http:\\192.168.114.48\#Selskab">Selskab</option>
+				<option value="http:\\192.168.114.48\#Arrangementer">Arrangementer</option>
+				<option value="http:\\192.168.114.48\#Restauranten">Restauranten</option>
+				<option value="http:\\192.168.114.48\#Kontakt">Kontakt os</option>
 			</select>
 		</nav>
 	</div>

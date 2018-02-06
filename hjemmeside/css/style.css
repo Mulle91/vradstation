@@ -2,7 +2,7 @@
 
 .topbilled img {
 	height: 80vh;
-	width: 110.3%;
+	width: 100%;
 	border-top: 130px solid;
 	border-color: rgba(255,255,255,0.3);
 }
@@ -12,6 +12,22 @@
 }
 
 #Menu, #Vin, #Selskab, #Arrangementer, #Restauranten, #Kontakt {
+	border: 2px solid;
 	padding-top: 200px;
     overflow: hidden;
+}
+
+#Restauranten img {
+	float: right;
+	position: relative;
+	height: 65vh;
+	width: 100%;
+}
+
+#Restauranten .restaurantentekst {
+	 width: 25%;
+}
+
+table {
+	width: 100%;
 }
