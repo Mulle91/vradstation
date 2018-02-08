@@ -3,39 +3,13 @@
 <head>
 
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
 	<title>Vradsstation.dk</title>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-  <script>
-   // DOM ready
-   $(function() {
-     
-      // Create the dropdown base
-      $("<select />").appendTo("nav");
-      
-      // Create default option "Go to..."
-      $("<option />", {
-         "selected": "selected",
-         "value"   : "",
-         "text"    : "Gå til"
-      }).appendTo("nav select");
-      
-      // Populate dropdown with menu items
-      $("nav a").each(function() {
-       var el = $(this);
-       $("<option />", {
-           "value"   : el.attr("href"),
-           "text"    : el.text()
-       }).appendTo("nav select");
-      });
-      
-     // To make dropdown actually work
-     // To make more unobtrusive: http://css-tricks.com/4064-unobtrusive-page-changer/
-      $("nav select").change(function() {
-        window.location = $(this).find("option:selected").val();
-      });
-   
-   });
-  </script>
+
+<?php
+include "script.php"; 
+?>
+
 </head>
 
 <body>

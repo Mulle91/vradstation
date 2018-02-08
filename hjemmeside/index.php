@@ -2,9 +2,9 @@
 include "header.php";
 ?>
 
-	<div class="topbilled">
-		<img src="css/billeder/3.png">
-	</div>
+<div class="topbilled">
+	<img src="css/billeder/Topbilled.png">
+</div>
 
 <div class="brødtekst">
 	<div id="Menu">

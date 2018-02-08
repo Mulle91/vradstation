@@ -11,15 +11,43 @@ include "header.php";
 			</td>
 
 			<td class="RestImg">
-				<img src="css/billeder/rest (1).jpg">
-				<img src="css/billeder/rest (2).jpg">
-				<img src="css/billeder/rest (3).jpg">
-				<img src="css/billeder/rest (4).jpg">
-				<img src="css/billeder/rest (5).jpg">
-				<img src="css/billeder/rest (6).jpg">
-				<img src="css/billeder/rest (7).jpg">
-				<img src="css/billeder/rest (8).jpg">
-				<img src="css/billeder/rest (9).jpg">
+				<div id="slideshow">
+					<div>
+						<img src="css/billeder/rest (1).jpg">
+					</div>
+						
+					<div>
+						<img src="css/billeder/rest (2).jpg">
+					</div>
+						
+					<div>
+						<img src="css/billeder/rest (3).jpg">
+					</div>
+						
+					<div>
+						<img src="css/billeder/rest (4).jpg">
+					</div>
+						
+					<div>
+						<img src="css/billeder/rest (5).jpg">
+					</div>
+						
+					<div>
+						<img src="css/billeder/rest (6).jpg">
+					</div>
+
+					<div>
+						<img src="css/billeder/rest (7).jpg">
+					</div>
+
+					<div>
+						<img src="css/billeder/rest (8).jpg">
+					</div>
+
+					<div>
+						<img src="css/billeder/rest (9).jpg">
+					</div>
+				</div>
 			</td>
 		</tr>
 	</table>
