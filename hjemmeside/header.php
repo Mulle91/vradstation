@@ -41,7 +41,7 @@
 <body>
 
 <div class="topback">
-	<a href="http:\\192.168.114.48"><img class="logo" src="css/logo.png" style="width: 300px; float: right;"></a>
+	<a href="http:\\192.168.114.48"><img class="logo" src="css/billeder/logo.png" style="width: 300px; float: right;"></a>
 	
 	<div class="topnav">
 

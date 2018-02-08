@@ -29,7 +29,7 @@ nav select {
   display: none;
 }
 
-@media (max-width: 950px) {
+@media (max-width: 1024px) {
   nav ul     { display: none; }
   nav select { display: inline-block; position: fixed; left: 80%;}
 }

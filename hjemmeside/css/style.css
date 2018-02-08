@@ -2,7 +2,7 @@
 @import url("restaurante.css");
 
 .topbilled img {
-	height: 80vh;
+	height: 80%;
 	width: 100%;
 	border-top: 130px solid;
 	border-color: rgba(255,255,255,0.3);
@@ -27,6 +27,10 @@
 
 #Restauranten .restaurantentekst {
 	 width: 25%;
+}
+
+#Restauranten td.RestImg img {
+	padding-top: 20px;
 }
 
 table {
