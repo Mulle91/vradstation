@@ -49,7 +49,6 @@ include "script.php";
 			<select>
 				<option selected="selected" value>gå til</option>
 
-
 				<option value="http:\\192.168.114.48\#Menu">Menu</option>
 				<option value="http:\\192.168.114.48\#Vin">Vin</option>
 				<option value="http:\\192.168.114.48\#Selskab">Selskab</option>
