@@ -30,15 +30,15 @@ nav select {
   display: none;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1440px) {
   nav ul     { 
   	display: none; 
   }
 
   nav select { 
   	text-align: center;
-  	background-color: #4CAF50;
-  	color: white;
+  	background-color: #f2f2f2;
+  	color: black;
   	padding-top: 15px;
   	padding-bottom: 15px;
     border: none;
@@ -59,7 +59,7 @@ nav select {
 div.topback img {
    max-height: 125px;
    position: fixed;
-   left: 15%;
+   left: 15%;*/
 }
 
 .topback {

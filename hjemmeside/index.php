@@ -28,8 +28,6 @@ include "header.php";
 			<tr>
 				<td class="restaurantentekst">
 					<h1>Restauranten</h1>
-					<p>hej med dig min ven</p>
-					<p>Klik på billedet for at se mere om restauranten ----></p>
 				</td>
 				<td>
 					<a href="restaurante.php"><img src="css/billeder/restaurantImg.jpg"></a>
