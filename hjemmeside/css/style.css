@@ -10,7 +10,7 @@
 
 .brødtekst {
 	font-family: cursive, sans-serif;
-	background-color: #f9fbff;
+	background-color: #f2f2f2;
 }
 
 #Menu, #Vin, #Selskab, #Arrangementer, #Restauranten {
@@ -35,6 +35,7 @@
 
 #Kontakt {
     overflow: hidden;
+    background-color: #808080;
 }
 
 table {
