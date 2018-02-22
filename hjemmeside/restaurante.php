@@ -3,11 +3,10 @@ include "header.php";
 ?>
 
 <div id="Restauranten">
-	<h1>Restauranten</h1>
 	<table>
 		<tr>
 			<td class="restaurantentekst">
-				
+				<h1>Restauranten</h1>
 			</td>
 
 			<td class="RestImg">
@@ -53,18 +52,16 @@ include "header.php";
 				<br>
 
 				<!-- The dots/circles -->
-				<div style="text-align:center">
-				  <span class="dot" onclick="currentSlide(1)"></span> 
-				  <span class="dot" onclick="currentSlide(2)"></span> 
-				  <span class="dot" onclick="currentSlide(3)"></span>
-				  <span class="dot" onclick="currentSlide(4)"></span> 
-				  <span class="dot" onclick="currentSlide(5)"></span> 
-				  <span class="dot" onclick="currentSlide(6)"></span>
-				  <span class="dot" onclick="currentSlide(7)"></span> 
-				  <span class="dot" onclick="currentSlide(8)"></span> 
-				  <span class="dot" onclick="currentSlide(9)"></span>  
-				</div>
+				<?php  
+					$dots = 9;
 
+					echo "<div style='text-align:center'>";
+					for ($i = 0; $i < $dots; $i++) {
+						echo "<span class='dot'></span>";
+					}
+					echo "</div>";
+				?>
+				
 			</td>
 		</tr>
 	</table>

@@ -18,14 +18,14 @@
     overflow: hidden;
 }
 
-#Restauranten img {
+#Restauranten img, #Menu img, #Vin img, #Selskab img, #Arrangementer img {
 	float: right;
 	position: relative;
 	height: 65vh;
 	width: 100%;
 }
 
-#Restauranten .restaurantentekst {
+#Restauranten .restaurantentekst, #Menu .menutekst, #Vin .vintekst, #Selskab .selskabtekst, #Arrangementer .arrangementertekst {
 	 width: 25%;
 }
 
@@ -35,7 +35,24 @@
 
 #Kontakt {
     overflow: hidden;
-    background-color: #808080;
+    background-color: #e5e5e5;
+}
+
+.footertext {
+	padding-left: 20px;
+}
+
+.restbtn {
+	background-color: #e5e5e5;
+	border: 1px solid;
+	border-radius: 50px;
+	padding: 15px;
+	color: #111;
+	text-decoration: none;
+}
+
+.restbtn:hover {
+	color: #0000ff;
 }
 
 table {
