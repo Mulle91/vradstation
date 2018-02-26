@@ -9,7 +9,7 @@
 }
 
 .brødtekst {
-	font-family: cursive, sans-serif;
+	font-family: ;
 	background-color: #f2f2f2;
 }
 
@@ -26,6 +26,7 @@
 }
 
 #Restauranten .restaurantentekst, #Menu .menutekst, #Vin .vintekst, #Selskab .selskabtekst, #Arrangementer .arrangementertekst {
+	text-align: center;
 	 width: 25%;
 }
 
@@ -39,7 +40,8 @@
 }
 
 .footertext {
-	padding-left: 20px;
+	text-align: center;
+	background-color: #e5e5e5;
 }
 
 .restbtn {

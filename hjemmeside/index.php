@@ -12,6 +12,24 @@ include "header.php";
 			<tr>
 				<td class="menutekst">
 					<h1>Menu</h1>
+					<p><strong>Frokost & aftenmenu</strong> <br>
+						Restaurant Vrads Stations menukort er a la carte retter, <br>
+						som serveres både til frokost og til aften mellem kl. 12-21.00
+					</p>
+					<p> <strong>Onsdags menu </strong> <br>
+						Vi tilbyder hver onsdag en 2 retters menu efter stationens eget valg. 
+					</p>
+					<p><strong>Kaffe & Kage</strong> <br>
+						Vi står klar tirsdag-søndag kl. 12-17 med stationens lagkage, <br>
+						hjemmebag og 
+						friskbrygget kaffe. 
+					</p> 
+					<p><strong>Ishuset Vrads Station</strong> <br>
+						I det lille ishus kan købes is og hjemmebagte kager, <br>
+						samt varme og kolde drikke som kan nydes på perronen, <br>
+						og de omkringliggende omgivelser.
+					</p><br>
+					<a href="menu.php" class="restbtn">Se menukort her</a>
 				</td>
 				<td>
 					<img src="css/billeder/restaurantImg.jpg">
@@ -37,7 +55,11 @@ include "header.php";
 		<table>
 			<tr>
 				<td class="selskabtekst">
-					<h1>Selskab</h1>
+					<h1>Selskaber</h1>
+					<p>Vi gør os umage med at skabe rammerne for livets store og små fester. <br> 
+						Der vil være mulighed for at afholde alt mellem brunch og bryllup, <br> både i de charmerende togvogne på perronen og i den fantastiske stationsbygning. 
+					</p> <br>
+					<a href="selskab.php" class="restbtn">Se selskabsmenuer her</a>
 				</td>
 				<td>
 					<img src="css/billeder/restaurantImg.jpg">
@@ -54,6 +76,13 @@ include "header.php";
 				</td>
 				<td class="arrangementertekst">
 					<h1>Arrangementer</h1>
+					<p>Arrangementer
+ 						Hold øje med vores arrangementer her på siden. <br>
+
+						Vi vil her opdatere dig omkring vores spændende arrangementer, som afholdes hen over året. <br>
+
+						Restaurant Vrads Station ønsker at skabe stemningsfyldte og tilbagevendende begivenheder for både store og små.
+					</p>
 				</td>
 			</tr>
 		</table>
@@ -64,6 +93,10 @@ include "header.php";
 			<tr>
 				<td class="restaurantentekst">
 					<h1>Restauranten</h1>
+					<p>Restaurant Vrads Station - en autentisk lille plet i de midtjyske skove. <br>
+						Stationens lokaler er stemningsfuldt indrettet og danner ramme for Restaurantens hjemlige hygge, <br> 
+						hvor vi ser frem til at byde velkommen.
+					</p> <br>
 						<a href="restaurante.php" class="restbtn">Mere info</a>
 				</td>
 				<td>

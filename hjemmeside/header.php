@@ -30,7 +30,7 @@ include "script.php";
 				</li>
 
 				<li>
-					<a href="http:\\192.168.114.48\#Selskab"> Selskab </a>
+					<a href="http:\\192.168.114.48\#Selskab"> Selskaber </a>
 				</li>
 
 				<li>
@@ -42,7 +42,7 @@ include "script.php";
 				</li>
 				
 				<li>
-					<a href="http:\\192.168.114.48\#Kontakt"> Kontakt os </a>
+					<a href="http:\\192.168.114.48\#Kontakt"> Info og kontakt </a>
 				</li>
 			</ul>
 

@@ -7,6 +7,21 @@ include "header.php";
 		<tr>
 			<td class="restaurantentekst">
 				<h1>Restauranten</h1>
+				<p>For enden af Danmarks smukkeste jernbane. <br>
+					Her ligger Vrads Station, et sted du sent vil glemme. <br>
+
+					At servere for gæster på Vrads Station er ikke nogen ny idé. <br>
+
+					Allerede i 1963 tog Bryrup-banens ledelse initiativ til et restaurationstog, <br>
+					som stod på stationen om sommeren. <br>
+
+					To af serveringsvognene er stadig at finde på stationen i dag. <br>
+
+					Veteranbanen overtog stationen i 1969, <br>
+					og i de sidste mange år har restauranten i den gamle stationsbygning været drevet af forpagtere. <br>
+
+					Vi glæder os til at byde jer velkommen på den gamle station. 
+				</p>
 			</td>
 
 			<td class="RestImg">
