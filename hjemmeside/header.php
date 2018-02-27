@@ -15,7 +15,7 @@ include "script.php";
 <body>
 
 <div class="topback">
-	<a href=""><img class="logo" src="css/billeder/logo.png" style="width: 300px; float: right;"></a>
+	<a href="index.php"><img class="logo" src="css/billeder/logo.png" style="width: 300px; float: right;"></a>
 	
 	<div class="topnav">
 

@@ -83,7 +83,8 @@ include "header.php";
 						Vi vil her opdatere dig omkring vores spændende arrangementer, <br>
 						som afholdes hen over året. <br>
 
-						Restaurant Vrads Station ønsker at skabe stemningsfyldte og tilbagevendende begivenheder for både store og små. <br> <br>
+						Restaurant Vrads Station ønsker at skabe stemningsfyldte <br>
+						og tilbagevendende begivenheder for både store og små. <br> <br>
 
 						<?php
 							$file = fopen("arrangementer.txt","r");

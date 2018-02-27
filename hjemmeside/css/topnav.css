@@ -1,5 +1,6 @@
 div.topnav {
-	min-width: 100%;
+	top: 2%;
+	max-width: 100%;
 	position: fixed;
 	float: right;
 	margin: auto;
@@ -9,7 +10,6 @@ div.topnav {
 
 .topnav li a {
 	border: 1px solid;
-	border-radius: 50px;
 	margin: 10px;
 	text-decoration: none;
 	padding: 20px;
@@ -61,7 +61,8 @@ nav select {
 div.topback img {
    max-height: 125px;
    position: fixed;
-   left: 10%;
+   top: 1%;
+   left: 4%;
 }
 
 .topback {
@@ -69,7 +70,7 @@ div.topback img {
 	top: 0%;
 	position: fixed;
 	padding: 2px;
-	padding-right: 99.156%;
+	padding-right: 99%;
 	padding-bottom: 135.5px;
 	background-color: #e5e5e5;
 	overflow: hidden;
