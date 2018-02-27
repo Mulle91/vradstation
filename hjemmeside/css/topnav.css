@@ -1,9 +1,9 @@
 div.topnav {
-	max-width: 100%;
+	min-width: 100%;
 	position: fixed;
 	float: right;
 	margin: auto;
-	left: 40%;
+	left: 35%;
 	font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
@@ -61,7 +61,7 @@ nav select {
 div.topback img {
    max-height: 125px;
    position: fixed;
-   left: 15%;*/
+   left: 10%;
 }
 
 .topback {
