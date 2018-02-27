@@ -25,9 +25,11 @@
 	width: 100%;
 }
 
-#Restauranten .restaurantentekst, #Menu .menutekst, #Vin .vintekst, #Selskab .selskabtekst, #Arrangementer .arrangementertekst {
+#Restauranten .restaurantentekst, #Menu .menutekst, #Vin .vintekst, #Selskab .selskabtekst, #Arrangementer .arrangementertekst, #Menu .frokost {
+	border: 2px solid;
 	text-align: center;
-	 width: 25%;
+	font-size: 20px;
+	width: 30%;
 }
 
 #Restauranten td.RestImg img {
@@ -35,6 +37,7 @@
 }
 
 #Kontakt {
+	font-size: 20px;
     overflow: hidden;
     background-color: #e5e5e5;
 }

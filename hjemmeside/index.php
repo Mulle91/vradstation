@@ -14,7 +14,8 @@ include "header.php";
 					<h1>Menu</h1>
 					<p><strong>Frokost & aftenmenu</strong> <br>
 						Restaurant Vrads Stations menukort er a la carte retter, <br>
-						som serveres både til frokost og til aften mellem kl. 12-21.00
+						som serveres både til frokost og til aften mellem <br>
+						kl. 12-21.00
 					</p>
 					<p> <strong>Onsdags menu </strong> <br>
 						Vi tilbyder hver onsdag en 2 retters menu efter stationens eget valg. 
@@ -79,9 +80,21 @@ include "header.php";
 					<p>Arrangementer
  						Hold øje med vores arrangementer her på siden. <br>
 
-						Vi vil her opdatere dig omkring vores spændende arrangementer, som afholdes hen over året. <br>
+						Vi vil her opdatere dig omkring vores spændende arrangementer, <br>
+						som afholdes hen over året. <br>
 
-						Restaurant Vrads Station ønsker at skabe stemningsfyldte og tilbagevendende begivenheder for både store og små.
+						Restaurant Vrads Station ønsker at skabe stemningsfyldte og tilbagevendende begivenheder for både store og små. <br> <br>
+
+						<?php
+							$file = fopen("arrangementer.txt","r");
+
+							while(! feof($file))
+							  {
+							  echo fgets($file). "<br />";
+							  }
+
+							fclose($file);
+						?>
 					</p>
 				</td>
 			</tr>
