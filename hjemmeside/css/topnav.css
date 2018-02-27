@@ -1,5 +1,5 @@
 div.topnav {
-	min-width: 100%;
+	max-width: 100%;
 	position: fixed;
 	float: right;
 	margin: auto;
@@ -32,7 +32,7 @@ nav select {
   display: none;
 }
 
-@media (max-width: 1440px) {
+@media (max-width: 1600px) {
   nav ul     { 
   	display: none; 
   }
