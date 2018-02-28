@@ -1,6 +1,10 @@
 @import url("topnav.css");
 @import url("restaurante.css");
 
+body {
+	width: 99%;
+}
+
 .topbilled img {
 	height: 80%;
 	width: 100%;
@@ -10,24 +14,24 @@
 
 .brødtekst {
 	font-family: ;
-	background-color: #f2f2f2;
+	background-color: #fff;
 }
 
-#Menu, #Vin, #Selskab, #Arrangementer, #Restauranten {
-	padding-top: 200px;
+#Menu {
+	padding-top: 75px;
     overflow: hidden;
 }
 
 #Restauranten img, #Menu img, #Vin img, #Selskab img, #Arrangementer img {
-	float: right;
+	float: left;
 	position: relative;
 	height: 65vh;
-	width: 100%;
+	width: 80%;
+	left: 10%;
 }
 
 #Restauranten .restaurantentekst, #Menu .menutekst, #Vin .vintekst, #Selskab .selskabtekst, #Arrangementer .arrangementertekst, #Menu .frokost {
-	border: 2px solid;
-	padding-left: 5px;
+	padding-left: 10px;
 	text-align: left;
 	font-size: 20px;
 	width: 30%;
@@ -49,18 +53,29 @@
 }
 
 .restbtn {
-	background-color: #e5e5e5;
+	background-color: rgb(24, 26, 40);
 	border: 1px solid;
 	padding: 15px;
-	color: #111;
+	color: #fff;
 	text-decoration: none;
 }
 
 .restbtn:hover {
-	color: #0000ff;
+	opacity: 0.9;
 }
 
 table {
 	width: 100%;
 }
 
+#Vin .vintekst, #Arrangementer .arrangementertekst {
+	background-color: #f2f2f2;
+}
+
+#Vin, #Arrangementer {
+	background-color: #f2f2f2;
+}
+
+#Vin, #Selskab, #Arrangementer, #Restauranten {
+	padding-top: 50px;
+}
