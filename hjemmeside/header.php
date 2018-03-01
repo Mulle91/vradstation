@@ -22,7 +22,7 @@ include "script.php";
 		<nav>
 			<ul>
 				<li>
-					<a href="/#Menu"> Menu </a>
+					<a href="/#scroll"> Menu </a>
 				</li>
 
 				<li>

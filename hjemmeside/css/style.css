@@ -33,6 +33,7 @@ body {
 #Restauranten .restaurantentekst, #Menu .menutekst, #Vin .vintekst, #Selskab .selskabtekst, #Arrangementer .arrangementertekst, #Menu .frokost {
 	padding-left: 10px;
 	text-align: left;
+	vertical-align: top;
 	font-size: 20px;
 	width: 30%;
 }
