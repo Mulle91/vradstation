@@ -85,18 +85,9 @@ include "header.php";
 
 						Restaurant Vrads Station ønsker at skabe stemningsfyldte <br>
 						og tilbagevendende begivenheder for både store og små. <br> <br>
-
-						<?php
-							$file = fopen("arrangementer.txt","r");
-
-							while(! feof($file))
-							  {
-							  echo fgets($file). "<br />";
-							  }
-
-							fclose($file);
-						?>
 					</p>
+
+					<a href="arrangementer.php" class="restbtn">Se arrangementer her</a>
 				</td>
 			</tr>
 		</table>

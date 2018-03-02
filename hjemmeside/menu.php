@@ -1,11 +1,11 @@
 <?php 
 include "header.php";
 ?>
- 
+
 <div class="brødtekst">
 	<div id="Menu">
 
-		<h1 style="text-align: center;">Menukort</h1>
+		<h1 id="kort" style="text-align: center;">Menukort</h1>
 		<table>
 			<tr>
 				<td class="menutekst">

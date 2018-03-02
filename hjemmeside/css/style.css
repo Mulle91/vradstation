@@ -30,12 +30,13 @@ body {
 	left: 10%;
 }
 
-#Restauranten .restaurantentekst, #Menu .menutekst, #Vin .vintekst, #Selskab .selskabtekst, #Arrangementer .arrangementertekst, #Menu .frokost {
+#Restauranten .restaurantentekst, #Menu .menutekst, #Vin .vintekst, #Arrangementer .arrangementertekst, #Selskab .selskabtekst, #Menu .frokost {
 	padding-left: 10px;
 	text-align: left;
 	vertical-align: top;
 	font-size: 20px;
 	width: 30%;
+	border: 2px solid;
 }
 
 #Restauranten td.RestImg img {
@@ -66,11 +67,13 @@ body {
 }
 
 table {
+	padding-top: 100px;
 	width: 100%;
 }
 
 #Vin .vintekst, #Arrangementer .arrangementertekst {
-	background-color: #f2f2f2;
+	position: relative;
+	right: 5%;
 }
 
 #Vin, #Arrangementer {
@@ -79,4 +82,12 @@ table {
 
 #Vin, #Selskab, #Arrangementer, #Restauranten {
 	padding-top: 50px;
+}
+
+#kort {
+	padding-top: 100px;
+}
+
+.dots {
+	visibility: hidden;
 }

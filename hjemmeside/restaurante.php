@@ -66,17 +66,18 @@ include "header.php";
 				</div>
 				<br>
 
-				<!-- The dots/circles -->
-				<?php  
-					$dots = 9;
+				<div class="dots">
+					<!-- The dots/circles -->
+					<?php  
+						$dots = 9;
 
-					echo "<div style='text-align:center'>";
-					for ($i = 0; $i < $dots; $i++) {
-						echo "<span class='dot'></span>";
-					}
-					echo "</div>";
-				?>
-				
+						echo "<div style='text-align:center'>";
+						for ($i = 0; $i < $dots; $i++) {
+							echo "<span class='dot'></span>";
+						}
+						echo "</div>";
+					?>
+				</div>
 			</td>
 		</tr>
 	</table>
