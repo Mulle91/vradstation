@@ -75,6 +75,14 @@ table {
 	right: 5%;
 }
 
+#Arrangementer .arrangementertekstside {
+	padding-left: 10px;
+	text-align: left;
+	vertical-align: top;
+	font-size: 20px;
+	width: 30%;
+}
+
 #Vin, #Arrangementer {
 	background-color: #f2f2f2;
 }

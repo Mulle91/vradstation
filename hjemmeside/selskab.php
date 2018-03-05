@@ -7,7 +7,7 @@ include "header.php";
 		<table>
 			<tr>
 				<td class="selskabtekst">
-					<h1>selskabsmenu</h1>
+					<h1>Selskabsmenu</h1>
 					<p>
 						Menuer 
 					</p>

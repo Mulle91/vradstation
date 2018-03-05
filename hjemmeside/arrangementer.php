@@ -6,7 +6,7 @@
 	<div id="Arrangementer">
 		<table>
 			<tr>
-				<td class="arrangementertekst">
+				<td class="arrangementertekstside">
 					<h1>Arrangementer</h1>
 					<?php
 						$file = fopen("arrangementer.txt","r");
