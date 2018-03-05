@@ -31,7 +31,7 @@ include "header.php";
 				<td>
 					<img src="css/billeder/restaurantImg.jpg">
 				</td>
-				<td class="menutekst">
+				<td class="menutekst" style="position: relative; right: 5%;">
 					<h3>Onsdags menu</h3>
 					<p>Vi tilbyder hver onsdag en 2 retters menu efter stationens eget valg. <br>
 						Her vil vi servere klassiske retter med et twist, som skifter hver uge. <br>

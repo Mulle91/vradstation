@@ -9,8 +9,8 @@
 		</p>
 		<p class="åbning">Åbningstider: <br>
 							Mandag: LUKKET <br>
-							Tirsdag-lørdag 12-21 <br>
-							Søndag 12-17
+							Tirsdag-lørdag: 12-21 <br>
+							Søndag: 12-17
 		</p>
 	</div>
 </div>

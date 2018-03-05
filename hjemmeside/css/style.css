@@ -30,12 +30,20 @@ body {
 	left: 10%;
 }
 
-#Restauranten .restaurantentekst, #Menu .menutekst, #Vin .vintekst, #Arrangementer .arrangementertekst, #Selskab .selskabtekst, #Menu .frokost {
+#Restauranten .restaurantentekst, #Menu .menutekst, #Vin .vintekst, #Arrangementer .arrangementertekst, #Selskab .selskabtekst {
 	padding-left: 10px;
 	text-align: left;
 	vertical-align: top;
 	font-size: 20px;
 	width: 30%;
+}
+
+#Restauranten .restaurantentekst p strong, #Menu .menutekst p strong, #Vin .vintekst p strong, #Arrangementer .arrangementertekst p strong, #Selskab .selskabtekst p strong {
+	font-size: 25px;
+}
+
+#Restauranten .restaurantentekst h3, #Menu .menutekst h3, #Vin .vintekst h3, #Arrangementer .arrangementertekst h3, #Selskab .selskabtekst h3 {
+	font-size: 25px;
 }
 
 #Restauranten td.RestImg img {
@@ -54,7 +62,7 @@ body {
 }
 
 .restbtn {
-	background-color: rgb(24, 26, 40);
+	background-color: #000099;
 	border: 1px solid;
 	padding: 15px;
 	color: #fff;
@@ -62,7 +70,7 @@ body {
 }
 
 .restbtn:hover {
-	opacity: 0.9;
+	opacity: 0.7;
 }
 
 table {
