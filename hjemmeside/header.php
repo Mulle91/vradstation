@@ -22,11 +22,11 @@ include "script.php";
 		<nav>
 			<ul>
 				<li>
-					<a href="/#scroll"> Menu </a>
+					<a href="/#Menu"> Menu </a>
 				</li>
 
 				<li>
-					<a href="/#Vin"> Vin </a>
+					<a href="/#Drikke"> Drikke </a>
 				</li>
 
 				<li>
@@ -50,7 +50,7 @@ include "script.php";
 				<option selected="selected" value>gå til</option>
 
 				<option value="/#Menu">Menu</option>
-				<option value="/#Vin">Vin</option>
+				<option value="/#Drikke">Drikke</option>
 				<option value="/#Selskab">Selskab</option>
 				<option value="/#Arrangementer">Arrangementer</option>
 				<option value="/#Restauranten">Restauranten</option>

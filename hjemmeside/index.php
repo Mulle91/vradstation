@@ -30,7 +30,8 @@ include "header.php";
 						samt varme og kolde drikke som kan nydes på perronen, <br>
 						og de omkringliggende omgivelser.
 					</p><br>
-					<a href="menu.php" class="restbtn">Se menukort her</a>
+					<a href="menu.php" class="restbtn">Læs mere</a>
+					<a href="file_name" download="menukort" class="restbtn">Se menukort </a>
 				</td>
 				<td>
 					<img src="css/billeder/restaurantImg.jpg">
@@ -39,14 +40,14 @@ include "header.php";
 		</table>
 	</div>
 
-	<div id="Vin">
+	<div id="Drikke">
 		<table>
 			<tr>
 				<td>
 					<img src="css/billeder/restaurantImg.jpg">
 				</td>
-				<td class="vintekst">
-					<h1>Vin</h1>
+				<td class="Drikketekst">
+					<h1>Drikke</h1>
 				</td>
 			</tr>
 		</table>
@@ -56,7 +57,7 @@ include "header.php";
 		<table>
 			<tr>
 				<td class="selskabtekst">
-					<h1>Selskaber</h1>
+					<h1>Selskaber</h1> <br>
 					<p>Vi gør os umage med at skabe rammerne for livets store og små fester. <br> 
 						Der vil være mulighed for at afholde alt mellem brunch og bryllup, <br> både i de charmerende togvogne på perronen og i den fantastiske stationsbygning. 
 					</p> <br>
@@ -76,7 +77,7 @@ include "header.php";
 					<img src="css/billeder/restaurantImg.jpg">
 				</td>
 				<td class="arrangementertekst">
-					<h1>Arrangementer</h1>
+					<h1>Arrangementer</h1> <br>
 					<p>Arrangementer
  						Hold øje med vores arrangementer her på siden. <br>
 
@@ -97,7 +98,7 @@ include "header.php";
 		<table>
 			<tr>
 				<td class="restaurantentekst">
-					<h1>Restauranten</h1>
+					<h1>Restauranten</h1> <br>
 					<p>Restaurant Vrads Station - en autentisk lille plet i de midtjyske skove. <br>
 						Stationens lokaler er stemningsfuldt indrettet og danner ramme for Restaurantens hjemlige hygge, <br> 
 						hvor vi ser frem til at byde velkommen.

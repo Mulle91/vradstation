@@ -7,6 +7,8 @@ body {
 }
 
 .topbilled img {
+	position: relative;
+	left: 2px;
 	height: 80%;
 	width: 100%;
 	border-top: 130px solid;
@@ -23,7 +25,7 @@ body {
     overflow: hidden;
 }
 
-#Restauranten img, #Menu img, #Vin img, #Selskab img, #Arrangementer img {
+#Restauranten img, #Menu img, #Drikke img, #Selskab img, #Arrangementer img {
 	float: left;
 	position: relative;
 	height: 65vh;
@@ -31,7 +33,7 @@ body {
 	left: 10%;
 }
 
-#Restauranten .restaurantentekst, #Menu .menutekst, #Vin .vintekst, #Arrangementer .arrangementertekst, #Selskab .selskabtekst {
+#Restauranten .restaurantentekst, #Menu .menutekst, #Drikke .Drikketekst, #Arrangementer .arrangementertekst, #Selskab .selskabtekst {
 	padding-left: 10px;
 	text-align: left;
 	vertical-align: top;
@@ -39,11 +41,16 @@ body {
 	width: 30%;
 }
 
-#Restauranten .restaurantentekst p strong, #Menu .menutekst p strong, #Vin .vintekst p strong, #Arrangementer .arrangementertekst p strong, #Selskab .selskabtekst p strong {
+#Restauranten .restaurantentekst, #Menu .menutekst,	#Selskab .selskabtekst {
+	position: relative;
+	left: 115px;
+}
+
+#Restauranten .restaurantentekst p strong, #Menu .menutekst p strong, #Drikke .Drikketekst p strong, #Arrangementer .arrangementertekst p strong, #Selskab .selskabtekst p strong {
 	font-size: 25px;
 }
 
-#Restauranten .restaurantentekst h3, #Menu .menutekst h3, #Vin .vintekst h3, #Arrangementer .arrangementertekst h3, #Selskab .selskabtekst h3 {
+#Restauranten .restaurantentekst h3, #Menu .menutekst h3, #Drikke .Drikketekst h3, #Arrangementer .arrangementertekst h3, #Selskab .selskabtekst h3 {
 	font-size: 25px;
 }
 
@@ -75,11 +82,11 @@ body {
 }
 
 table {
-	padding-top: 100px;
+	padding-top: 25px;
 	width: 100%;
 }
 
-#Vin .vintekst, #Arrangementer .arrangementertekst {
+#Drikke .Drikketekst, #Arrangementer .arrangementertekst {
 	position: relative;
 	right: 5%;
 }
@@ -92,12 +99,12 @@ table {
 	width: 30%;
 }
 
-#Vin, #Arrangementer {
+#Drikke, #Arrangementer {
 	background-color: #f2f2f2;
 }
 
-#Vin, #Selskab, #Arrangementer, #Restauranten {
-	padding-top: 50px;
+#Drikke, #Selskab, #Arrangementer, #Restauranten {
+	padding-top: 55px;
 }
 
 #kort {
