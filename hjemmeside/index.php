@@ -31,7 +31,7 @@ include "header.php";
 						og de omkringliggende omgivelser.
 					</p><br>
 					<a href="menu.php" class="restbtn">Læs mere</a>
-					<a href="file_name" download="menukort" class="restbtn">Se menukort </a>
+					<a href="Menukort.pdf" download="Menukort" class="restbtn">Se menukort </a>
 				</td>
 				<td>
 					<img src="css/billeder/restaurantImg.jpg">
