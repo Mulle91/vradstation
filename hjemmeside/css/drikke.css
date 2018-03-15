@@ -1,0 +1,28 @@
+.vine, .saft {
+	padding-left: 10px;
+	text-align: left;
+	vertical-align: top;
+	font-size: 20px;
+	width: 30%;
+	position: relative;
+	left: 6%;
+}
+
+.øl {
+	vertical-align: top;
+	font-size: 20px;
+	position: relative;
+	right: 5%;
+}
+
+#øl {
+	background-color: #f2f2f2;
+}
+
+.vine img, .saft img, .øl img {
+	float: left;
+	position: relative;
+	height: 65vh;
+	width: 80%;
+	left: 10%;
+}

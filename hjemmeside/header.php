@@ -47,7 +47,7 @@ include "script.php";
 			</ul>
 
 			<select>
-				<option selected="selected" value>gå til</option>
+				<option selected="selected" value>Gå til</option>
 
 				<option value="/#Menu">Menu</option>
 				<option value="/#Drikke">Drikke</option>

@@ -4,7 +4,7 @@ include "header.php";
 
 <div class="brødtekst">
 	<div id="Selskab">
-		<table>
+		<table class="selskabmenu">
 			<tr>
 				<td class="selskabtekst">
 					<h1>Selskabsmenu</h1>

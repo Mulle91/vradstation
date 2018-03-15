@@ -1,17 +1,31 @@
 <div class="brødtekst" id="Kontakt">
 
 	<div class="footertext">
-		<h1>Info og kontakt</h1>
-		<p class="addrres">Restaurant Vrads Station. <br> 
-			Lystrupmindevej 15, 8654 Bryrup <br> <br>
-			Tlf.: 75 75 62 20 <br>
-			Mail: info@vradsstation.dk
-		</p>
-		<p class="åbning">Åbningstider: <br>
-							Mandag: LUKKET <br>
-							Tirsdag-lørdag: 12-21 <br>
-							Søndag: 12-17
-		</p>
+		<table>
+			<tr>
+				<td>
+					<h1>Info og kontakt</h1>
+					<p class="addrres">Restaurant Vrads Station. <br> 
+			Lystrupmindevej 15, 8654 Bryrup
+				</td>
+
+				<td>
+					<h1>Resevere bord</h1>
+					<p>Tlf.: 75 75 62 20</p>
+
+					<h3>Spørgsmål</h3>
+					<p>Skriv til vores mail: info@vradsstation.dk</p>
+				</td>
+
+				<td>
+					<h1>Åbningstider:</h1>
+					<p>Mandag: Lukket <br>
+						Tirsdag: 18-21 <br>
+						Lørdag: 12-21 <br>
+						Søndag: 12-17</p>
+				</td>
+			</tr>
+		</table>
 	</div>
 </div>
 

@@ -4,7 +4,7 @@
 
 <div class="brødtekst">
 	<div id="Arrangementer">
-		<table>
+		<table class="arrangementside">
 			<tr>
 				<td class="arrangementertekstside">
 					<h1>Arrangementer</h1>

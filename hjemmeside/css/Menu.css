@@ -1,0 +1,28 @@
+.frokost, .kaffe {
+	padding-left: 10px;
+	text-align: left;
+	vertical-align: top;
+	font-size: 20px;
+	width: 30%;
+	position: relative;
+	left: 6%;
+}
+
+.onsdag {
+	vertical-align: top;
+	font-size: 20px;
+	position: relative;
+	right: 5%;
+}
+
+#onsdag {
+	background-color: #f2f2f2;
+}
+
+.frokost img, .kaffe img, .onsdag img {
+	float: left;
+	position: relative;
+	height: 65vh;
+	width: 80%;
+	left: 10%;
+}

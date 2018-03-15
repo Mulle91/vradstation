@@ -13,12 +13,14 @@ include "header.php";
 				<td class="menutekst">
 					<h1>Menu</h1>
 					<p><strong>Frokost & aftenmenu</strong> <br>
-						Restaurant Vrads Stations menukort er a la carte retter, <br>
+						Restaurant Vrads Stations menukort <br>
+						er a la carte retter, <br>
 						som serveres både til frokost og til aften mellem <br>
 						kl. 12-21.00
 					</p>
 					<p> <strong>Onsdags menu </strong> <br>
-						Vi tilbyder hver onsdag en 2 retters menu efter stationens eget valg. 
+						Vi tilbyder hver onsdag en 2 retters <br>
+						menu efter stationens eget valg. 
 					</p>
 					<p><strong>Kaffe & Kage</strong> <br>
 						Vi står klar tirsdag-søndag kl. 12-17 med stationens lagkage, <br>
@@ -27,7 +29,8 @@ include "header.php";
 					</p> 
 					<p><strong>Ishuset Vrads Station</strong> <br>
 						I det lille ishus kan købes is og hjemmebagte kager, <br>
-						samt varme og kolde drikke som kan nydes på perronen, <br>
+						samt varme og kolde drikke som kan <br>
+						nydes på perronen, <br>
 						og de omkringliggende omgivelser.
 					</p><br>
 					<a href="menu.php" class="restbtn">Læs mere</a>
@@ -48,6 +51,18 @@ include "header.php";
 				</td>
 				<td class="Drikketekst">
 					<h1>Drikke</h1>
+					<p> <strong>Vine</strong> <br>
+						Vore vine kommer fra små vinbønder med store visioner. <br>
+						Vinbønderne er ildsjæle som flytter grænser i de områder hvor de laver vin.
+					</p>
+					<p> <strong>Specialøl</strong> <br>
+						Vores specialøl er nøje udvalgt fra Ikast mikrobryg.
+					</p>
+					<p> <strong>Safte</strong> <br>
+						Vi har valgt at servere de bedste danske safte Nature Sip fra Ikast mikrobryg af ægte dansk håndværk.
+					</p>
+					<a href="drikke.php" class="restbtn">Læs mere</a>
+					<a href="Vinkort.pdf" download="Vinkort" class="restbtn">Se vinkort </a>
 				</td>
 			</tr>
 		</table>
@@ -99,7 +114,8 @@ include "header.php";
 			<tr>
 				<td class="restaurantentekst">
 					<h1>Restauranten</h1> <br>
-					<p>Restaurant Vrads Station - en autentisk lille plet i de midtjyske skove. <br>
+					<p>Restaurant Vrads Station - en autentisk <br>
+						lille plet i de midtjyske skove. <br>
 						Stationens lokaler er stemningsfuldt indrettet og danner ramme for Restaurantens hjemlige hygge, <br> 
 						hvor vi ser frem til at byde velkommen.
 					</p> <br>

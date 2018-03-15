@@ -9,7 +9,7 @@ include "header.php";
 		<div class="test">
 			<table>
 				<tr>
-					<td class="menutekst">
+					<td class="frokost">
 						<h3>Frokost & aftenmenu</h3>
 						<p>Restaurant Vrads Stations menukort er a la carte retter, <br>
 							som serveres både til frokost og til aften mellem <br>
@@ -29,14 +29,14 @@ include "header.php";
 
 	<div id="Menu">
 		<div class="test">
-			<table>
+			<table id="onsdag">
 				<tr>
 					<td>
 						<img src="css/billeder/restaurantImg.jpg">
 					</td>
-					<td class="menutekst" style="position: relative; right: 5%;">
+					<td class="onsdag">
 						<h3>Onsdags menu</h3>
-						<p>Vi tilbyder hver onsdag en 2 retters menu efter stationens eget valg. <br>
+						<p>Vi tilbyder hver onsdag en 2 retters menu efter stationens eget valg.
 							Her vil vi servere klassiske retter med et twist, som skifter hver uge. <br>
 							Husk at bestille bord, så vi kan sikre, <br>
 							at der er plads til jer i stationens stemningsfulde lokaler. <br> <br> 
@@ -53,7 +53,7 @@ include "header.php";
 		<div class="test">
 			<table>
 				<tr>
-					<td class="menutekst">
+					<td class="kaffe">
 						<h3>Kaffe & kage</h3>
 						<p>Vi står klar tirsdag-søndag kl. 12-17 med stationens lagkage, <br>
 							hjemmebag og 

@@ -1,6 +1,9 @@
 @import url("topnav.css");
 @import url("restaurante.css");
-@import url("menu.css");
+@import url("Menu.css");
+@import url("selskab.css");
+@import url("arrangementer.css");
+@import url("drikke.css");
 
 body {
 	width: 99%;
@@ -43,7 +46,7 @@ body {
 
 #Restauranten .restaurantentekst, #Menu .menutekst,	#Selskab .selskabtekst {
 	position: relative;
-	left: 115px;
+	left: 6%;
 }
 
 #Restauranten .restaurantentekst p strong, #Menu .menutekst p strong, #Drikke .Drikketekst p strong, #Arrangementer .arrangementertekst p strong, #Selskab .selskabtekst p strong {
@@ -65,6 +68,8 @@ body {
 }
 
 .footertext {
+	position: relative;
+	left: 4%;
 	text-align: center;
 	background-color: #e5e5e5;
 }
