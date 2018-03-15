@@ -9,9 +9,9 @@ div.topnav {
 }
 
 .topnav li a {
-	margin: 10px;
+	margin-left: 10px;
 	text-decoration: none;
-	padding: 30px;
+	padding: 20px;
 	float: right;
 	color: #111;
 	text-align: center;
@@ -32,7 +32,7 @@ nav select {
   display: none;
 }
 
-@media (max-width: 1919px) {
+@media (max-width: 1439px) {
   nav ul     { 
   	display: none; 
   }

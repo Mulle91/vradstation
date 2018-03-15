@@ -42,7 +42,7 @@ include "script.php";
 				</li>
 				
 				<li>
-					<a href="/#Kontakt"> Info og kontakt </a>
+					<a href="/#Kontakt"> Info og <br> kontakt </a>
 				</li>
 			</ul>
 
