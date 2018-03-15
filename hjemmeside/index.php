@@ -11,6 +11,7 @@ include "header.php";
 		<table>
 			<tr>
 				<td class="menutekst">
+					<br>
 					<h1>Menu</h1>
 					<p><strong>Frokost & aftenmenu</strong> <br>
 						Restaurant Vrads Stations menukort <br>
@@ -50,7 +51,9 @@ include "header.php";
 					<img src="css/billeder/restaurantImg.jpg">
 				</td>
 				<td class="Drikketekst">
-					<h1>Drikke</h1>
+					<br>
+					<br>
+					<h1>Drikke</h1> <br>
 					<p> <strong>Vine</strong> <br>
 						Vore vine kommer fra små vinbønder med store visioner. <br>
 						Vinbønderne er ildsjæle som flytter grænser i de områder hvor de laver vin.
@@ -72,6 +75,7 @@ include "header.php";
 		<table>
 			<tr>
 				<td class="selskabtekst">
+					<br> <br>
 					<h1>Selskaber</h1> <br>
 					<p>Vi gør os umage med at skabe rammerne for livets store og små fester. <br> 
 						Der vil være mulighed for at afholde alt mellem brunch og bryllup, <br> både i de charmerende togvogne på perronen og i den fantastiske stationsbygning. 
@@ -92,6 +96,7 @@ include "header.php";
 					<img src="css/billeder/restaurantImg.jpg">
 				</td>
 				<td class="arrangementertekst">
+					<br> <br>
 					<h1>Arrangementer</h1> <br>
 					<p>Arrangementer
  						Hold øje med vores arrangementer her på siden. <br>
@@ -113,6 +118,7 @@ include "header.php";
 		<table>
 			<tr>
 				<td class="restaurantentekst">
+					<br>
 					<h1>Restauranten</h1> <br>
 					<p>Restaurant Vrads Station - en autentisk <br>
 						lille plet i de midtjyske skove. <br>
