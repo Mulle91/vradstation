@@ -6,6 +6,7 @@ include "header.php";
 	<table>
 		<tr>
 			<td class="restaurantentekst">
+				<br> <br>
 				<h1>Restauranten</h1>
 				<p>For enden af Danmarks smukkeste jernbane. <br>
 					Her ligger Vrads Station, et sted du sent vil glemme. <br>

@@ -118,7 +118,7 @@ include "header.php";
 		<table>
 			<tr>
 				<td class="restaurantentekst">
-					<br>
+					<br> <br>
 					<h1>Restauranten</h1> <br>
 					<p>Restaurant Vrads Station - en autentisk <br>
 						lille plet i de midtjyske skove. <br>
